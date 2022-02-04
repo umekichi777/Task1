@@ -8,3 +8,14 @@ header {
   height: 50px;
   background-color: #ff9a4b;
 }
+
+.item-boxes {
+  width: 960px;
+  margin: 50px auto;
+}
+
+.item-box {
+  width: 300px;
+  background-color: #eeeeee;
+  color: red;
+}
