@@ -18,3 +18,7 @@ header {
   width: 300px;
   background-color: #eeeeee;
 }
+
+.item-image {
+  background-image: url(img/flow01.png);
+}
